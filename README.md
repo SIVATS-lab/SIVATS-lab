@@ -99,6 +99,20 @@ Exploring data processing, visualization, and analytical techniques through prac
 
 ---
 
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SIVATS-lab/SIVATS-lab/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake eating GitHub contribution dots"/>
+
+<sub>Every contribution is another step forward.</sub>
+
+</div>
+
+---
+
 
 
 ## CURRENT DIRECTION
