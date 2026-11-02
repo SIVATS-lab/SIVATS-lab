@@ -99,19 +99,16 @@ Exploring data processing, visualization, and analytical techniques through prac
 
 ---
 
-## GITHUB ANALYTICS
+## 📊 GITHUB ANALYTICS
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SIVATS-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIVATS-lab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Programming Languages" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SIVATS-lab&show_icons=true&hide_border=true&bg_color=0B1020&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIVATS-lab&layout=compact&hide_border=true&bg_color=0B1020&title_color=60A5FA&text_color=CBD5E1" alt="Top programming languages"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SIVATS-lab&bg_color=0B1020&color=CBD5E1&line=60A5FA&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity"/>
-
-</div>
-
----
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SIVATS-lab&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity" />
+</p>
 
 ## CURRENT DIRECTION
 
