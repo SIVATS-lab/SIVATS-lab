@@ -99,16 +99,7 @@ Exploring data processing, visualization, and analytical techniques through prac
 
 ---
 
-## 📊 GITHUB ANALYTICS
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SIVATS-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIVATS-lab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Programming Languages" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SIVATS-lab&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity" />
-</p>
 
 ## CURRENT DIRECTION
 
