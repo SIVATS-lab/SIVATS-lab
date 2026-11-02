@@ -118,7 +118,7 @@ Exploring data processing, visualization, and analytical techniques through prac
 ## CURRENT DIRECTION
 
 ```text
-01  Strengthening full-stack development
+01   full-stack development
 02  Building practical Python projects
 03  Exploring data analytics and AI
 04  Developing a stronger project portfolio
