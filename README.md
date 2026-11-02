@@ -1,73 +1,57 @@
 <div align="center">
 
-# `Siva TS`
+# 👋 Hi, I'm Siva TS
 
-### 💻 Full-Stack Developer | Data Analytics | AI/ML
+### 💻 Full-Stack Developer | 📊 Data Analytics | 🤖 AI/ML Enthusiast
 
-*Building practical solutions with code, data, and technology.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-SIVATS--lab-181717?style=for-the-badge&logo=github)](https://github.com/SIVATS-lab)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+Web+Applications;Exploring+Data+Analytics;Learning+AI+%26+Machine+Learning" alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
 
-### `whoami`
+### 🚀 About Me
 
-I'm a developer interested in building web applications, analyzing data, and exploring artificial intelligence.
+- 💻 Interested in full-stack web development.
+- 📊 Exploring data analytics and visualization.
+- 🤖 Learning artificial intelligence and machine learning.
+- 🌱 Focused on practical projects and continuous improvement.
 
-- 💻 **Development:** Full-stack web applications
-- 📊 **Analytics:** Data analysis and visualization
-- 🤖 **AI/ML:** Exploring intelligent applications
-- 🚀 **Focus:** Practical projects and continuous learning
+### 🛠️ Tech Stack
 
-### `tech-stack`
+<p>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,php,mysql,git,github,vscode" alt="Technology stack" />
+</p>
 
-**Languages & Web Development**
+### 📂 Featured Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+- 🍽️ **Catering Management System**
+- 📚 **Online Book Store** — PHP and MySQL
+- 🤖 **AI Resume Builder & Job Matcher**
 
-**Database & Analytics**
+### 📈 GitHub Statistics
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SIVATS-lab&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIVATS-lab&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most-used languages" />
+</p>
 
-**Tools**
+### 🔥 Contribution Activity
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SIVATS-lab&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
-### `projects`
-
-| Project | Description | Technologies |
-|---|---|---|
-| Catering Management System | Catering service management application | Web Development |
-| Online Book Store | E-commerce application for books | PHP, MySQL |
-| AI Resume Builder & Job Matcher | Resume creation and job-matching application | HTML, CSS, JavaScript |
-
-### `github@activity`
+---
 
 <div align="center">
 
-<!-- Animated contribution heatmap will be added here -->
-<img src="./contrib-heatmap.svg" alt="GitHub Contribution Heatmap" width="100%"/>
+### 🤝 Let's Connect
 
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-SIVATS--lab-181717?style=for-the-badge&logo=github)](https://github.com/SIVATS-lab)
 
-### `connect`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github)](https://github.com/SIVATS-lab)
-
-*Always learning. Always building. Always improving.*
+*Code. Learn. Build. Repeat. 🚀*
 
 </div>
